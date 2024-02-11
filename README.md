@@ -1,5 +1,5 @@
-<img align="right" alt="hello-gif" height="100px" width="200px"
-      src="https://media.giphy.com/media/lIzAEoZEn571u/giphy.gif" />
+<!-- <img align="right" alt="hello-gif" height="100px" width="200px"
+      src="https://media.giphy.com/media/lIzAEoZEn571u/giphy.gif" /> -->
 <h1 align="left">Hello there! I'm a developer.</h1>
 <h3 align="left">Full Stack Developer | Java | Spring | Angular</h3>
 
