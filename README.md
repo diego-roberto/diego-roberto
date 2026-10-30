@@ -37,7 +37,7 @@
 ![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
 ![LangGraph](https://img.shields.io/badge/LangGraph-1C3C3C?style=for-the-badge&logo=langgraph&logoColor=white)
 ![MCP](https://img.shields.io/badge/MCP-6366F1?style=for-the-badge&logo=modelcontextprotocol&logoColor=white)
-![Amazon Q](https://img.shields.io/badge/Amazon_Q-232F3E?style=for-the-badge&logo=amazonwebservices&logoColor=white)
+![Google Antigravity](https://img.shields.io/badge/Google-Antigravity-4285F4)
 ![Kiro IDE](https://img.shields.io/badge/Kiro_IDE-6C63FF?style=for-the-badge&logoColor=white)
 
 ### OS
